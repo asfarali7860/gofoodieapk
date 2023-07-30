@@ -10,7 +10,8 @@ Flutter and Firebase.
 >  $ git clone https://github.com/asfarali7860/gofoodieapk.git
 2. Open the project and install dependencies (using terminal):
 >  $ flutter pub get
-<!-- This installs all the required dependencies like
+```
+This installs all the required dependencies like
   image_picker: ^0.8.6
   firebase_auth: ^4.2.5
   cloud_firestore: ^4.3.1
@@ -41,6 +42,7 @@ Flutter and Firebase.
   rxdart: ^0.27.7
   sound_stream: ^0.3.0
   dialogflow_grpc: ^0.2.9 -->
+```
 3. Make an Android project on your Firebase account, follow the steps mentioned, and you're ready.
 4. Now run the app on your connected device (using terminal):
 > $ flutter run
