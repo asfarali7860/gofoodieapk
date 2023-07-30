@@ -41,7 +41,10 @@ This installs all the required dependencies like
   flutter_local_notifications: ^13.0.0
   rxdart: ^0.27.7
   sound_stream: ^0.3.0
-  dialogflow_grpc: ^0.2.9 -->
+  dialogflow_grpc: ^0.2.9
+  image_gallery_saver: ^1.7.1
+  screenshot: ^1.3.0
+  qr_flutter: ^4.0.0
 ```
 3. Make an Android project on your Firebase account, follow the steps mentioned, and you're ready.
 4. Now run the app on your connected device (using terminal):
